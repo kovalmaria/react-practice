@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 /* eslint-disable jsx-a11y/accessible-emoji */
 import React from 'react';
 import './App.scss';
@@ -94,6 +95,7 @@ export const App = () => (
             >
               Category 1
             </a>
+            
 
             <a
               data-cy="Category"
